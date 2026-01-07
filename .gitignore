@@ -1,0 +1,4 @@
+.idea
+# Trained models
+*.keras
+*.h5
